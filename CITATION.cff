@@ -3,6 +3,12 @@ message: "If you use this work, please cite it as below."
 type: dataset
 title: "Three-point correlation of the Riemann zeros at finite height: the ratios conjecture bin by bin on 147 million zeros up to t = 3e10, the amplitude of the deviation from GUE, and smaller sets further up - a reproducible numerical study IV"
 version: "1.0"
+date-released: "2026-11-09"
+doi: "10.5281/zenodo.24094318"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24094318"
+    description: "Zenodo record of this study (GitHub release v1.0)"
 license: ["CC-BY-4.0", "MIT"]
 repository-code: "https://github.com/Dhess1978/three-point-correlation-zeta"
 authors:

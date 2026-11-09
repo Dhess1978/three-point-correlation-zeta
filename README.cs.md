@@ -2,7 +2,7 @@
 
 **David Hess (MAYAN ALFA V1008 LAB v.34.72) · 2026** · [English version](README.md)
 
-Zenodo: DOI bude přiděleno při vydání.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24094318.svg)](https://doi.org/10.5281/zenodo.24094318) Zenodo: [doi:10.5281/zenodo.24094318](https://doi.org/10.5281/zenodo.24094318)
 
 Čtvrtá studie řady, po studiích *Berry saturation and the statistics of the Riemann zeros* (Zenodo, [doi:10.5281/zenodo.23815328](https://doi.org/10.5281/zenodo.23815328)), *Beyond the diagonal approximation* (studie II, [doi:10.5281/zenodo.23928017](https://doi.org/10.5281/zenodo.23928017)) a *Low-lying zeros of 795,381 quadratic Dirichlet L-functions* (studie III, [doi:10.5281/zenodo.23991165](https://doi.org/10.5281/zenodo.23991165)). Měří tříbodovou korelaci R₃ nul Riemannovy funkce zeta v konečné výšce a srovnává ji se vzorcem Conreyho a Snaithové (2008) z domněnky poměrů, který obsahuje všechny členy nižšího řádu až po absolutní člen. Nuly spočítal D. Platt a šíří je LMFDB (147,2 milionu nul ve 14 blocích od první nuly do t = 3,06·10¹⁰); k nim tři sady po 10⁴ nulách A. Odlyzka u t = 10¹¹, 10²⁰ a 10²¹. Chyba každého koše je ze 40 souvislých kusů bloku.
 
@@ -48,3 +48,7 @@ Výpočty byly vyvinuty a ověřeny v chráněné laboratoři MAYAN ALFA V1008 (
 ## Licence
 
 Text, obrázky a data: CC BY 4.0 (`LICENSE-CC-BY-4.0.md`). Kód: MIT (`LICENSE`). Shrnutí česky: `LICENCE.cs.md`.
+
+## Citace
+
+Viz `CITATION.cff`. Tato studie: Hess, D. (2026), Three-point correlation of the Riemann zeros at finite height: the ratios conjecture bin by bin on 147 million zeros up to t = 3·10¹⁰, the amplitude of the deviation from GUE, and smaller sets further up — a reproducible numerical study IV, Zenodo, [doi:10.5281/zenodo.24094318](https://doi.org/10.5281/zenodo.24094318). Předchozí studie: Hess, D. (2026), Berry saturation and the statistics of the Riemann zeros from t ≈ 10⁴ to 10²¹: a reproducible numerical study, Zenodo, doi:10.5281/zenodo.23815328; Hess, D. (2026), Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ≈ 10⁴ to 10²¹ — a reproducible numerical study II, Zenodo, doi:10.5281/zenodo.23928017; Hess, D. (2026), Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 10¹⁰: the ratios conjecture, consecutive families and the first zero — a reproducible numerical study III, Zenodo, doi:10.5281/zenodo.23991165.
