@@ -1,0 +1,126 @@
+{
+ "files": 30,
+ "md5_ok": 30,
+ "boundaries": [
+  {
+   "file": "zeros_5000.dat",
+   "unfolded_spacing": 0.9616761196845894
+  },
+  {
+   "file": "zeros_26000.dat",
+   "unfolded_spacing": 2.013470332997882
+  },
+  {
+   "file": "zeros_236000.dat",
+   "unfolded_spacing": 1.4816757363207411
+  },
+  {
+   "file": "zeros_446000.dat",
+   "unfolded_spacing": 1.5777879182017596
+  },
+  {
+   "file": "zeros_2546000.dat",
+   "unfolded_spacing": 1.72834742671384
+  },
+  {
+   "file": "zeros_4646000.dat",
+   "unfolded_spacing": 0.9840719014934223
+  },
+  {
+   "file": "zeros_6746000.dat",
+   "unfolded_spacing": 1.0416627124000606
+  },
+  {
+   "file": "zeros_8846000.dat",
+   "unfolded_spacing": 1.53155277012493
+  },
+  {
+   "file": "zeros_10946000.dat",
+   "unfolded_spacing": 0.9609663298964168
+  },
+  {
+   "file": "zeros_13046000.dat",
+   "unfolded_spacing": 1.96175805909293
+  },
+  {
+   "file": "zeros_15146000.dat",
+   "unfolded_spacing": 1.3565976184085724
+  },
+  {
+   "file": "zeros_17246000.dat",
+   "unfolded_spacing": 1.0051871812972546
+  },
+  {
+   "file": "zeros_19346000.dat",
+   "unfolded_spacing": 1.2404914250433594
+  },
+  {
+   "file": "zeros_21446000.dat",
+   "unfolded_spacing": 0.9659922176652311
+  },
+  {
+   "file": "zeros_23546000.dat",
+   "unfolded_spacing": 2.1786050326299646
+  },
+  {
+   "file": "zeros_25646000.dat",
+   "unfolded_spacing": 1.6095923069943119
+  },
+  {
+   "file": "zeros_27746000.dat",
+   "unfolded_spacing": 1.4010270542172958
+  },
+  {
+   "file": "zeros_101246000.dat",
+   "unfolded_spacing": 2.1294760590302895
+  },
+  {
+   "file": "zeros_103346000.dat",
+   "unfolded_spacing": 1.1039471570127797
+  },
+  {
+   "file": "zeros_1000046000.dat",
+   "unfolded_spacing": 1.1254525122667312
+  },
+  {
+   "file": "zeros_1002146000.dat",
+   "unfolded_spacing": 1.372261226350566
+  },
+  {
+   "file": "zeros_10000646000.dat",
+   "unfolded_spacing": 0.929590553597403
+  },
+  {
+   "file": "zeros_10002746000.dat",
+   "unfolded_spacing": 0.9465590379919684
+  },
+  {
+   "file": "zeros_30605846000.dat",
+   "unfolded_spacing": 1.1801569929879783
+  },
+  {
+   "file": "zeros_30607946000.dat",
+   "unfolded_spacing": 1.8144493382316884
+  }
+ ],
+ "S_max": 0.801199243981164,
+ "zeros": 147474957,
+ "contiguous_from_1": 2001052,
+ "boundary_spacing_range": [
+  0.929590553597403,
+  2.1786050326299646
+ ],
+ "odlyzko_zeros6": {
+  "zeros": 2001052,
+  "max_abs_diff": 3.026798367500305e-09
+ },
+ "lmfdb_1e5": {
+  "zeros": 100000,
+  "max_abs_diff": 1.1482986154498566e-11
+ },
+ "mpmath_zetazero": {
+  "1": 8.407109157053222e-16,
+  "100000": 1.204595298511611e-12,
+  "2001052": 7.896251821608922e-11
+ }
+}

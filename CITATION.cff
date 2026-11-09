@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Three-point correlation of the Riemann zeros at finite height: the ratios conjecture bin by bin on 147 million zeros up to t = 3e10, the amplitude of the deviation from GUE, and smaller sets further up - a reproducible numerical study IV"
+version: "1.0"
+license: ["CC-BY-4.0", "MIT"]
+repository-code: "https://github.com/Dhess1978/three-point-correlation-zeta"
+authors:
+  - family-names: "Hess"
+    given-names: "David"
+    affiliation: "MAYAN ALFA V1008 LAB v.34.72"
+keywords: ["Riemann zeta function", "zeros", "three-point correlation", "ratios conjecture", "random matrix theory", "GUE", "lower-order terms", "Conrey-Snaith", "LMFDB", "quadratic Dirichlet L-functions"]
+references:
+  - type: generic
+    title: "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23815328"
+  - type: generic
+    title: "Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ~ 1e4 to 1e21 - a reproducible numerical study II"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23928017"
+  - type: generic
+    title: "Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 1e10: the ratios conjecture, consecutive families and the first zero - a reproducible numerical study III"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23991165"
